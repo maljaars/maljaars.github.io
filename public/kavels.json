@@ -1,0 +1,32 @@
+[
+    {
+        "nummer": "01",
+        "name": "Ritje in Ferrari",
+        "omschrijving": "Technological information and others, in addition to information about companies in the sector, list of any and all companies related to agribusiness.",
+        "afbeeldingen": [
+            {
+                "name": "Ferrari",
+                "path": "auto0.jpg"
+            },
+            {
+                "name": "Ferrari binnen",
+                "path": "auto1.jpg"
+            },
+            {
+                "name": "Ferrari nog een",
+                "path": "auto2.jpg"
+            }
+        ]
+    },
+    {
+        "nummer": "02",
+        "name": "Ritje in mijn Ford",
+        "omschrijving": "<p>Geheel verzorgt<p>Inclusief: <ul><li>Eindschoonmaak</li><li>Beginschoonmaak</li></ul>",
+        "afbeeldingen": [
+            {
+                "name": "Ford",
+                "path": "ford.jpeg"
+            }
+        ]
+    }
+]

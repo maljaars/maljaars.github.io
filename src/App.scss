@@ -1,0 +1,46 @@
+$screen-laptop: 1024px;
+
+@mixin laptop {
+  @media (min-width: #{$screen-laptop}) {
+    @content;
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+
+.kavels{
+  display: flex;
+   flex-direction: column;
+}
+
+.gallery {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+
+  &__frame {
+    &--image {
+      width: 120px;
+      height: 90px;
+
+      @include laptop {
+        width: 320px;
+        height: 240px;
+      }
+    }
+  }
+}
+
+.modal-image {
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
