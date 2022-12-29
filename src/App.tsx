@@ -53,7 +53,7 @@ function App() {
       {kavels.map((kavel) => (
         <div style={{display: 'flex', flexDirection: 'column'}} key={kavel.nummer}>
           <h2>{kavel.name}</h2>
-          <div>{kavel.omschrijving}</div>
+          <div dangerouslySetInnerHTML={{ __html: kavel.omschrijving }}>{}</div>
           <div style={{display: 'flex'}}>
             {kavel.afbeeldingen.map((afbeelding) => (
                 <div style={{backgroundImage: `url('/images/${afbeelding.path}')`, width: '50px', height: '80px'}}></div>
