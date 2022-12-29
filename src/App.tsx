@@ -59,11 +59,9 @@ function App() {
           <h2>{kavel.name}</h2>
           <div dangerouslySetInnerHTML={{ __html: kavel.omschrijving }}>{ }</div>
           <div className='gallery'>
-            {kavel.afbeeldingen.map((afbeelding) => (
+            {kavel.afbeeldingen.filter((e, index) => index === 0).map((afbeelding) => (
               <div className='gallery__frame' key={afbeelding.path} onClick={() => toggleModal(afbeelding)}>
-                <img className='gallery__frame--image' style={{
-                  objectFit: 'cover',
-                }} src={`/images/${afbeelding.path}`} />
+                <img className='gallery__frame--image' src={`/images/${afbeelding.path}`} />
               </div>
             ))}
           </div>
