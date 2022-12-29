@@ -4,6 +4,7 @@ import { Modal } from './Components/Modal/Modal';
 import './App.scss';
 import { Afbeelding, Kavel } from './Components/Interfaces';
 import { useMediaQuery } from 'react-responsive';
+import "@fontsource/josefin-sans";
 
 function App() {
 
@@ -54,20 +55,32 @@ function App() {
 
   return (
     <div className='App'>
-      {kavels.map((kavel) => (
-        <div className='kavels' key={kavel.nummer}>
-          <h2>{kavel.name}</h2>
-          <div dangerouslySetInnerHTML={{ __html: kavel.omschrijving }}>{ }</div>
-          <div className='gallery'>
-            {kavel.afbeeldingen.filter((e, index) => index === 0).map((afbeelding) => (
-              <div className='gallery__frame' key={afbeelding.path} onClick={() => toggleModal(afbeelding)}>
-                <img className='gallery__frame--image' src={`/images/${afbeelding.path}`} />
-              </div>
-            ))}
+      <img src='placeholder.png' width='100%' />
+      <h2>Kavels</h2>
+      <div className='kavels'>
+        {kavels.map((kavel) => (
+          <div className='kavel' key={kavel.nummer}>
+            <div className='kavel__poster'>
+              {kavel.afbeeldingen.filter((e, index) => index === 0).map((afbeelding) => (
+                <div className='kavel__poster__frame' key={afbeelding.path} onClick={() => toggleModal(afbeelding)}>
+                  <img className='kavel__poster__frame--image' src={`/images/${afbeelding.path}`} />
+                </div>
+              ))}
+            </div>
+            <div className='kavel__content'>
+              <h3>{kavel.name}</h3>
+              <div dangerouslySetInnerHTML={{ __html: kavel.omschrijving }}>{ }</div>
+              <div className='thumbs'>
+                {kavel.afbeeldingen.filter((e, index) => index > 0).map((afbeelding) => (
+                  <div className='thumbs__frame' key={afbeelding.path} onClick={() => toggleModal(afbeelding)}>
+                    <img className='thumbs__frame--image' src={`/images/${afbeelding.path}`} />
+                  </div>
+                ))}
+            </div>
+            </div>
           </div>
-        </div>
-      ))}
-
+        ))}
+      </div>
       {showModal && modalContent && <Modal>
         {modalContent as any}
       </Modal>}

@@ -1,4 +1,5 @@
 $screen-laptop: 1024px;
+$screen-tablet: 820px;
 
 @mixin laptop {
   @media (min-width: #{$screen-laptop}) {
@@ -6,36 +7,117 @@ $screen-laptop: 1024px;
   }
 }
 
+@mixin tablet {
+  @media (min-width: #{$screen-tablet}) {
+    @content;
+  }
+}
+
+$red900: #33000c;
+$red500: #ce171f;
+$red100: #ce171f08;
+
+$fontBig: 1.75rem;
+
+$boxShadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+$kavelShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+$borderRadius: 5px;
+
+body {
+  font-family: "Josefin Sans";
+  color: $red900;
+  font-size: 1rem;
+  background-color: #f6f6f6;
+}
+
+h2{
+  font-size: 30px;
+}
+
+h3 {
+  color: $red500;
+  font-weight: 400;
+  font-size: $fontBig;
+  margin: .5rem 0 1rem;
+}
+
 .App {
-  text-align: center;
+  margin: 0 1rem;
+
+  @include laptop {
+    margin: 0 auto;
+    width: 1024px;
+  }
 }
 
-
-.kavels{
+.kavels {
   display: flex;
-   flex-direction: column;
-}
+  gap: 2rem;
+  flex-direction: column;
+  
+  .kavel {
+    border-radius: $borderRadius;
+    display: flex;
+    flex-direction: column;
+    box-shadow: $kavelShadow;
+    background-color: $red100;
 
-.gallery {
+    @include tablet {
+      flex-direction: row;
+    }
 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
+    &__content {
+      padding: 1rem;
+      @include tablet {
+        padding: 2rem;
+      }
+      flex-grow: 1;
+    }
 
-  &__frame {
-    &--image {
-      width: 120px;
-      height: 90px;
-      object-fit: cover;
-      
-      @include laptop {
-        width: 320px;
-        height: 240px;
+    &__poster {
+      flex: 0 0 50%;
+
+      &__frame {
+        display: flex;
+        height: 100%;
+
+        &--image {
+          border-top-left-radius: $borderRadius;
+          border-top-right-radius: $borderRadius;
+          @include tablet {
+            border-top-left-radius: $borderRadius;
+            border-bottom-left-radius: $borderRadius;
+            border-top-right-radius: 0;
+          }
+
+          width: 100%;
+          object-fit: cover;
+        }
       }
     }
   }
 }
+
+.thumbs{
+  display: flex;
+  margin: 2rem 0 0; 
+  gap: 2rem;
+  flex-wrap: wrap;
+
+  &__frame{
+    display: flex;
+    box-shadow: $boxShadow;
+    width: fit-content;
+
+    &--image{
+      max-width: 150px;
+      max-height: 120px;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+}
+
 
 .modal-image {
   width: 100%;
