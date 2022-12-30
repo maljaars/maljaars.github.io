@@ -1,0 +1,70 @@
+@import '../../Variables.scss';
+
+.kavels {
+    display: flex;
+    gap: 4rem;
+    flex-direction: column;
+    
+    .kavel {
+      border-radius: $borderRadius;
+      display: flex;
+      flex-direction: column;
+      box-shadow: $kavelShadow;
+      background-color: $red100;
+  
+      @include tablet {
+        flex-direction: row;
+      }
+  
+      &__content {
+        padding: 1rem;
+        @include tablet {
+          padding: 2rem;
+        }
+        flex-grow: 1;
+      }
+  
+      &__poster {
+        flex: 0 0 50%;
+  
+        &__frame {
+          display: flex;
+          height: 100%;
+  
+          &--image {
+            border-top-left-radius: $borderRadius;
+            border-top-right-radius: $borderRadius;
+            @include tablet {
+              border-top-left-radius: $borderRadius;
+              border-bottom-left-radius: $borderRadius;
+              border-top-right-radius: 0;
+            }
+  
+            width: 100%;
+            object-fit: cover;
+          }
+        }
+      }
+    }
+  }
+  
+  .thumbs{
+    display: flex;
+    margin: 2rem 0 0; 
+    gap: 2rem;
+    flex-wrap: wrap;
+  
+    &__frame{
+      display: flex;
+      box-shadow: $boxShadow;
+      width: fit-content;
+  
+      &--image{
+        max-width: 150px;
+        max-height: 120px;
+        border-radius: 5px;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+  }

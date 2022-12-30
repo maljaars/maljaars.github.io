@@ -1,0 +1,23 @@
+$screen-laptop: 1024px;
+$screen-tablet: 820px;
+
+@mixin laptop {
+  @media (min-width: #{$screen-laptop}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$screen-tablet}) {
+    @content;
+  }
+}
+
+$red900: #33000c;
+$red500: #ce171f;
+$red100: #ce171f08;
+
+$fontBig: 1.75rem;
+$boxShadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+$kavelShadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+$borderRadius: 5px;
