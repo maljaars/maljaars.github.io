@@ -5,10 +5,13 @@ export const Intro = () => {
     <div className='intro'>
       <div className='intro__content'>
         <h1>Welkom</h1>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        <p>Welkom op de benefiet veiling in het CSW in Middelburg.</p>
+        <p>Wij zijn Annemieke en Ruud Maljaars uit Middelburg en in oktober 2023 gaan we 63 kilometer wandelen voor een goed doel. Met de opbrengst van deze benefiet veiling bevrijden wij kinderen uit extreme armoede en geven zo een hoopvolle toekomst door ze te voorzien van eten, verzorging, medicijnen samen met hun plaatselijke kerk. </p>
+        <p>Samen met Compassion bezoeken we twee dorpen in Ghana o.a. Kintampo. Hier zullen we onze sponsorkinderen Christabel (2 jaar) en Fantinvel (4 jaar) ontmoeten. </p>
+        <p>Wil jij ook een kindje sponsoren? Dat kan voor €33,- per maand. We helpen je graag verder!</p>
       </div>
       <div className='intro__graphic'>
-        <img className='intro__graphic--image' src="https://via.placeholder.com/620x450" alt="Foto van de lopers" />
+        <img className='intro__graphic--image' src="/images/intro.jpg" alt="Foto van de lopers" />
       </div>
     </div>
   )
