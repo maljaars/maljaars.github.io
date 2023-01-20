@@ -47,8 +47,10 @@ function App() {
         </div>
         <div className='footer'>
           <div className='footer__copyright'>
-            Copyright ©{new Date().getFullYear()} All rights reserved
+            Copyright ©{new Date().getFullYear()} All rights reserved&nbsp;
+            <button onClick={() => setIsPresenting(!isPresenting)}>P</button>
           </div>
+          
         </div>
       </div>
     </>

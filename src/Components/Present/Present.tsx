@@ -10,14 +10,27 @@ type Props = {
 export const Present = ({ kavels, isActive }: Props) => {
 
     const [kavel, setCurrentKavel] = useState<Kavel>(kavels[0]);
+    const index = kavels.indexOf(kavel);
+
+    const navPrev = () => {
+        if (index > 0) {
+            setCurrentKavel(kavels[index - 1])
+        }
+    }
+
+    const navNext = () => {
+        if (index < kavels.length - 1) {
+            setCurrentKavel(kavels[index + 1])
+        }
+    }
 
     const handleKeyup = (e: KeyboardEvent) => {
         const index = kavels.indexOf(kavel);
 
-        if (e.key === 'ArrowRight' && index < kavels.length - 1) {
-            setCurrentKavel(kavels[index + 1])
-        } else if (e.key === 'ArrowLeft' && index > 0) {
-            setCurrentKavel(kavels[index - 1])
+        if (e.key === 'ArrowRight') {
+            navNext();
+        } else if (e.key === 'ArrowLeft') {
+            navPrev();
         }
     }
 
@@ -45,6 +58,8 @@ export const Present = ({ kavels, isActive }: Props) => {
 
     return (
         <div className='present-container'>
+            <div className='nav nav__prev' onClick={navPrev}></div>
+            <div className='nav nav__next' onClick={navNext}></div>
             <div className='background' style={bgStyling}></div>
             <div className='present'>
                 <div className='kavel'>
@@ -60,15 +75,15 @@ export const Present = ({ kavels, isActive }: Props) => {
                         ))}
                     </div>
                     <div className='kavel__content'>
-                        <h3>{kavel.nummer} - {kavel.name}</h3>
+                        <h3>{index + 1} - {kavel.name}</h3>
                         <div dangerouslySetInnerHTML={{ __html: kavel.omschrijving }} />
                         <div className='thumbs'>
                             {kavel.afbeeldingen.filter((e, index) => index > 0).map((afbeelding) => (
-                                    <img className='img'
-                                        key={afbeelding.path}
-                                        alt={`${afbeelding.name}`}
-                                        src={`/images/${afbeelding.path}`}
-                                    />
+                                <img className='img'
+                                    key={afbeelding.path}
+                                    alt={`${afbeelding.name}`}
+                                    src={`/images/${afbeelding.path}`}
+                                />
                             ))}
                         </div>
                     </div>
