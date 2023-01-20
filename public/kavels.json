@@ -2,7 +2,7 @@
     {
         "nummer": "01",
         "name": "Laat liever het recht stromen-paraplu",
-        "omschrijving": "<p><ul><li>Heerlijk wandelen in Zeeland.</li><li>Ga op pad met een exclusieve paraplu van Compassion</li></ul>Met de pakkende tekst: Laat liever het recht stromen als water</p>",
+        "omschrijving": "<ul><li>Heerlijk wandelen in Zeeland.</li><li>Ga op pad met een exclusieve paraplu van Compassion</li></ul><p>Met de pakkende tekst: Laat liever het recht stromen als water</p>",
         "afbeeldingen": [
             {
                 "name": "Laat liever het recht stromen-paraplu",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "nummer": "02",
+        "nummer": "03",
         "name": "Compassion Puzzel",
         "omschrijving": "<p>1000 stukken</p>",
         "afbeeldingen": [
@@ -190,10 +190,10 @@
                 "path": "martijn1.jpg"
             },{
                 "name": "Martijn",
-                "path": "martijn2.jpg"
+                "path": "martijn3.jpg"
             },{
                 "name": "Martijn",
-                "path": "martijn3.jpg"
+                "path": "martijn2.jpg"
             }
         ]
     },

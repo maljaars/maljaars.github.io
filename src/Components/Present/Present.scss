@@ -1,0 +1,119 @@
+@import '../../Variables.scss';
+
+
+.present-container {
+  .background {
+    /* Add the blur effect */
+    filter: blur(3px) brightness(.5);
+    -webkit-filter: blur(3px) brightness(.5);
+
+    // background: rgba(255, 255, 255, 0.9);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Full height */
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .present {
+    /* fixed position will always show Present in the top left corner */
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* z-index to show Present even if it is used before some other elements */
+    z-index: 5;
+    /* make Present fill whole window */
+    width: 100vw;
+    height: 100vh;
+    max-height: 100vh;
+    max-width: 100vw;
+
+    /* center content inside Present */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h3 {
+      font-size: 2.5rem;
+    }
+
+    p,li {
+      font-size: 1.5rem;
+      line-height: 2.5rem;
+    }
+
+    
+
+    .kavel {
+      /* hacker de hack hack. Als dit problemen geeft terugdraaien... */
+      min-width: 60vw;
+      max-width: 90vw;
+      max-height: 90vh;
+      /* *** */
+
+
+      border-radius: $borderRadius;
+      display: flex;
+      box-shadow: $kavelShadow;
+      background-color: #fcfcfcf3;
+
+      flex-direction: row;
+
+      &__content {
+        padding: 1rem;
+
+        @include tablet {
+          padding: 2rem;
+        }
+
+        flex-grow: 1;
+      }
+
+      &__poster {
+        flex: 0 0 50%;
+
+        &__frame {
+          display: flex;
+          height: 100%;
+          cursor: pointer;
+
+          &--image {
+            border-top-left-radius: $borderRadius;
+            border-top-right-radius: $borderRadius;
+
+            @include tablet {
+              border-top-left-radius: $borderRadius;
+              border-bottom-left-radius: $borderRadius;
+              border-top-right-radius: 0;
+            }
+
+            width: 100%;
+            object-fit: cover;
+          }
+        }
+      }
+    }
+
+
+  .thumbs {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+
+    .img{
+      width: 100%;
+    }
+  }
+  }
+
+  .present-image {
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}

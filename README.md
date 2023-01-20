@@ -1,3 +1,10 @@
+# Usage
+
+Keys
+`Ctrl + x` Toggle presentation mode
+`Left & right arrow` Toggle next kavel in presentation mode.
+`Click` Untoggle image modal
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
