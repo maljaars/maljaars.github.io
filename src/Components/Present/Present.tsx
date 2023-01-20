@@ -25,8 +25,6 @@ export const Present = ({ kavels, isActive }: Props) => {
     }
 
     const handleKeyup = (e: KeyboardEvent) => {
-        const index = kavels.indexOf(kavel);
-
         if (e.key === 'ArrowRight') {
             navNext();
         } else if (e.key === 'ArrowLeft') {
