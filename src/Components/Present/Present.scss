@@ -88,6 +88,10 @@
         }
 
         flex-grow: 1;
+
+        li>p {
+          margin: 0
+        }
       }
 
       &__poster {
