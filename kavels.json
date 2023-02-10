@@ -1,279 +1,570 @@
 [
-    {
-        "nummer": "01",
-        "name": "Laat liever het recht stromen-paraplu",
-        "omschrijving": "<ul><li>Heerlijk wandelen in Zeeland.</li><li>Ga op pad met een exclusieve paraplu van Compassion</li></ul><p>Met de pakkende tekst: Laat liever het recht stromen als water</p>",
-        "afbeeldingen": [
-            {
-                "name": "Laat liever het recht stromen-paraplu",
-                "path": "plu.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Nieuw behang voor je woonkamer of slaapkamer?",
-        "omschrijving": "<p>Aanbod: Jan de Visser<br>Zelf zorgen voor behang en plaksel.</p>",
-        "afbeeldingen": [
-            {
-                "name": "Behang",
-                "path": "behang.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "03",
-        "name": "Compassion Puzzel",
-        "omschrijving": "<p>1000 stukken</p>",
-        "afbeeldingen": [
-            {
-                "name": "Puzzel",
-                "path": "puzzel.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "RIJTOER (met chauffeur)",
-        "omschrijving": "<p>Morgan Roadster 3.7 V6<br>Morgan Roadster Plus 8 4,6 V8<br>Bij mooi weer met wind in de haren<br>bezoek aan  attractie</p>",
-        "afbeeldingen": [
-            {
-                "name": "Auto",
-                "path": "auto1.jpg"
-            },{
-                "name": "Auto",
-                "path": "auto2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "High tea",
-        "omschrijving": "<p><ul><li>2 rondes, hartig en zoet</li><li>Aangeboden door Marieke Helmendach</li><li>voor 4-6 personen</li><li>100% opbrengst voor Compassion</li><li>Thuisgebracht op Walcheren</li><li>Bieden vanaf € 15,- pp.</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "High tea",
-                "path": "hightea.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Middag meezeilen",
-        "omschrijving": "<p>Middag meezeilen op het Veerse Meer voor 2 personen<br>Inclusief koffie/thee en iets lekkers.</p>",
-        "afbeeldingen": [
-            {
-                "name": "Zeilboot",
-                "path": "zeil1.jpg"
-            },{
-                "name": "Zeilboot",
-                "path": "zeil2.jpg"
-            },{
-                "name": "Zeilboot",
-                "path": "zeil3.jpg"
-            },{
-                "name": "Zeilboot mok",
-                "path": "mok.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Zeiltocht Veerse Meer",
-        "omschrijving": "<p>Heerlijk op het water met zon en wind in de haren<ul><li>Zeilmiddag</li><li>4 personen</li><li>Aangeboden: Arjan Beekman</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Zeilboot",
-                "path": "nogeenboot.jpg"
-            },{
-                "name": "Zeilboot",
-                "path": "nogeenboot2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Bed & Breakfast AMAZING GRACE",
-        "omschrijving": "<p>Groot-Ammers (Zuid-Holland)<br>Aangeboden door: Wil en Caroline Jongeneel<br>Weekend</p>",
-        "afbeeldingen": [
-            {
-                "name": "B&B",
-                "path": "bb1.jpg"
-            },{
-                "name": "B&B",
-                "path": "bb2.jpg"
-            },{
-                "name": "B&B",
-                "path": "bb3.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Snoeien",
-        "omschrijving": "<p>Snoeien van heesters, rozen, hagen, jonge bomen, fruitbomen door vakman.<br>Eén tuin, maximaal 6 uur. <br>(Uiterlijk half april is goede snoeitijd)<br>Evert van de Vreede<br></p>",
-        "afbeeldingen": [
-            {
-                "name": "Snoei",
-                "path": "snoei1.jpg"
-            },{
-                "name": "Snoei",
-                "path": "snoei2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Vriendenvlucht Midden-Zeeland",
-        "omschrijving": "<p>Piloot Nassim de Jong - Middelburg<br>United Indian Mission Aviation<br>2 personen<br>Rondvlucht boven Zeeland van 1 uur<br></p>",
-        "afbeeldingen": [
-            {
-                "name": "Vliegtuig",
-                "path": "vliegtuig.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Keramiek beeld ",
-        "omschrijving": "<p>kunstenaar Paul Sanderse uit Middelburg<br>Hoogte: 44 cm<br>Gebakken op 1100 graden C<br><br>Bieden vanaf € 240<br></p>",
-        "afbeeldingen": [
-            {
-                "name": "beeld",
-                "path": "beeld.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Weekend in sfeervol vrijstaand vakantiehuis Veere",
-        "omschrijving": "<p><ul><li>4(-6) personen</i><li>Familie Rianne en Erwin van Oosten</i></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Vakantiehuis veere",
-                "path": "veere1.png"
-            },{
-                "name": "Vakantiehuis veere",
-                "path": "veere2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Tim Zingt – Kijk & Luisterpakket",
-        "omschrijving": "<p><ul><li>DVD/CD Goed Verhaal</li><li>DVD/CD Verloren Vaders</li><li>CD Zondermeer</li><li>Column Boek 'Wie ben ik dat ik dit boek mocht schrijven‘ (ter waarde van ongeveer €50 - 60)</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Tim Zingt – Kijk & Luisterpakket",
-                "path": "tim.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Buitenboordmotor 2.4 pk",
-        "omschrijving": "<p><ul><li>4-tact benzinemotor</li><li>Aangeboden door Herman Brandsen</li><li>Gecontroleerd door Jakob Jan Hus</li><li>Bieden vanaf €450</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Buitenboord motor",
-                "path": "bbmotor.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "2 vrijkaartjes voor Concert Mattijn Buwalda",
-        "omschrijving": "<p>Najaar 2023<br>Lokatie naar keuze</p>",
-        "afbeeldingen": [
-            {
-                "name": "Martijn",
-                "path": "martijn1.jpg"
-            },{
-                "name": "Martijn",
-                "path": "martijn3.jpg"
-            },{
-                "name": "Martijn",
-                "path": "martijn2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Foto-shoot door Arie Jongman",
-        "omschrijving": "<p></p>",
-        "afbeeldingen": []
-    },
-    {
-        "nummer": "02",
-        "name": "Amsterdam privé-appartement",
-        "omschrijving": "<p><ul><li>Max 4 personen</li><li>Aangeboden door Matty Buijs</li><li>Incl. eigen parkeerplaats in parkeerkelder</li><li>Datum in overleg 2-3 nachten</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Amsterdam",
-                "path": "adam1.jpg"
-            },{
-                "name": "Amsterdam",
-                "path": "adam2.jpg"
-            },{
-                "name": "Amsterdam",
-                "path": "adam3.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Jeanine Nieuwenhuis Dressage",
-        "omschrijving": "<p><ul><li>Rondleiding en demonstratie</li><li>Aangeboden door Jeanine Nieuwenhuis</li><li>www.jeaninenieuwenhuis.nl</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Paard",
-                "path": "uma1.jpg"
-            },{
-                "name": "Paard",
-                "path": "uma2.png"
-            },{
-                "name": "Paard",
-                "path": "uma3.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "De Zeeuwse Knoop - Massage",
-        "omschrijving": "<p><li>Aangeboden door Nathalie Marijs – la Grand</li><li>Hotstone-massage 50 minuten</li><li>Bieden vanaf € 35</li></p>",
-        "afbeeldingen": [
-            {
-                "name": "Knoop",
-                "path": "knoop1.jpg"
-            },{
-                "name": "Knoop",
-                "path": "knoop2.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Foto’s – het helpt je onthouden!",
-        "omschrijving": "<p>Op een mooie buitenlocatie op een ontspannen en relaxte wijze als gezin op de foto.Niet alleen een blijvende herinnering, ook een gezellig gezinsmoment.</p><p>Wat kun je verwachten:<ul><li>Ontspannen foto’s in verschillende opstellingen</li><li>Minimaal 25 bewerkte foto’s digitaal</li><li>Fotoshoot ter waarde van €75,-</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Foto Hanneke",
-                "path": "foto1.jpg"
-            }
-        ]
-    },
-    {
-        "nummer": "02",
-        "name": "Waterskien",
-        "omschrijving": "<p>Aangeboden door Martin Westerbeke en Daniel Walhout<ul><li>Rondje op de band</li><li>Rondje op een tweepersoonsbanaan</li><li>Alleen skiën</li><li>Met twee skiën</li><li>Mono ski</li><li>Wakeboard, kneeboard</li><li>Bieden vanaf € 100 (of vanaf €20 pp)</li></ul></p>",
-        "afbeeldingen": [
-            {
-                "name": "Boot",
-                "path": "boot1.png"
-            },{
-                "name": "Boot",
-                "path": "boot2.png"
-            }
-        ]
-    }
+  {
+    "nummer": 1,
+    "name": "Nieuw behang voor je woonkamer of slaapkamer?",
+    "omschrijving": "<p>Aanbod: Jan de Visser </p><p>Op afspraak </p><p>Zelf zorgen voor behang en plaksel.</p>",
+    "afbeeldingen": [
+      {
+        "name": "behang.jpg",
+        "path": "behang.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 2,
+    "name": "Bed & Breakfast AMAZING GRACE",
+    "omschrijving": "<p>Groot-Ammers (Zuid-Holland)</p><p>Aangeboden door: Wil en Caroline Jongeneel</p><p>Weekend voor 2 personen met genoeg ruimte om je hoofd leeg te maken en weer even op adem te komen. </p><p>Het is een plaats waar geloof, hoop en liefde samen komen!</p>",
+    "afbeeldingen": [
+      {
+        "name": "bb3.jpg",
+        "path": "bb3.jpg"
+      },
+      {
+        "name": "bb1.jpg",
+        "path": "bb1.jpg"
+      },
+      {
+        "name": "bb2.jpg",
+        "path": "bb2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 3,
+    "name": "Parfumerie-pakket",
+    "omschrijving": "<p>Aangeboden door Hanneke en Wim Rodenburg </p><p>Schoonheidssalons en Beautycentrum Rodenburg</p><p>Bieden vanaf € 69,95</p><p><a href=\"http://www.rodenburgbeauty.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.rodenburgbeauty.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "image11.jpg",
+        "path": "image11.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 4,
+    "name": "Keramiek beeld",
+    "omschrijving": "<p>Kunstenaar Paul Sanderse uit Middelburg</p><p>Hoogte: 44 cm</p><p>Gebakken op 1100 graden C</p><p></p><p>Bieden vanaf € 240</p>",
+    "afbeeldingen": [
+      {
+        "name": "beeld.jpg",
+        "path": "beeld.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 5,
+    "name": "RIJTOER (met chauffeur)",
+    "omschrijving": "<p>Morgan Roadster 3.7 V6<br />Morgan Roadster Plus 8 4,6 V8<br />Bij mooi weer met wind in de haren<br />bezoek aan attractie</p><p>Aangeboden door: <br />Kees van de Gruiter &amp;Henk Harinck</p>",
+    "afbeeldingen": [
+      {
+        "name": "auto2.jpg",
+        "path": "auto2.jpg"
+      },
+      {
+        "name": "auto1.jpg",
+        "path": "auto1.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 6,
+    "name": "High tea",
+    "omschrijving": "<p>Zin in een thuisfeestje? </p><ul><li><p>2 rondes, hartig en zoet</p></li><li><p>Aangeboden door Marieke Helmendach</p></li><li><p>voor 4-6 personen</p></li><li><p>100% opbrengst voor Compassion </p></li><li><p>Thuisgebracht op Walcheren</p></li><li><p>Bieden vanaf € 15,- pp.</p></li><li><p>Datum in overleg</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "hightea.jpg",
+        "path": "hightea.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 7,
+    "name": "Heerlijke vakantiewoning  ",
+    "omschrijving": "<p>Boerderij Het Driespan Middelburg</p><p>2 nachten incl. ontbijt</p><p>Max. 2 personen</p><p>Aangeboden door Mary en Jan Vader</p><p>Bieden vanaf €220</p>",
+    "afbeeldingen": [
+      {
+        "name": "image31.png",
+        "path": "image31.png"
+      },
+      {
+        "name": "image29.png",
+        "path": "image29.png"
+      },
+      {
+        "name": "image30.png",
+        "path": "image30.png"
+      },
+      {
+        "name": "image28.png",
+        "path": "image28.png"
+      }
+    ]
+  },
+  {
+    "nummer": 8,
+    "name": "Weekend in sfeervol vrijstaand vakantiehuis Veere",
+    "omschrijving": "<ul><li><p><b>4 tot 6 personen</b></p></li><li><p>Familie Rianne en Erwin van Oosten</p></li><li><p>Veerseweg </p></li><li><p>Bieden vanaf €300</p></li></ul><p><a href=\"https://www.vakantiehuisveere.nl\" custom=\"[object Object]\" linktype=\"url\"><u>https://www.vakantiehuisveere.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "veere1.png",
+        "path": "veere1.png"
+      },
+      {
+        "name": "veere2.jpg",
+        "path": "veere2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 9,
+    "name": "Middag meezeilen op het Veerse Meer",
+    "omschrijving": "<p>Voor 2 personen</p><p>Inclusief koffie/thee en iets lekkers </p><p>Bieden vanaf €75</p>",
+    "afbeeldingen": [
+      {
+        "name": "zeil3.jpg",
+        "path": "zeil3.jpg"
+      },
+      {
+        "name": "zeil2.jpg",
+        "path": "zeil2.jpg"
+      },
+      {
+        "name": "zeil1.jpg",
+        "path": "zeil1.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 10,
+    "name": "Buitenboordmotor 2.4 pk",
+    "omschrijving": "<ul><li><p>4-tact benzinemotor</p></li><li><p>Aangeboden door Herman Brandsen</p></li><li><p>Gecontroleerd door Jakob Jan Hus</p></li><li><p>Bieden vanaf €450</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "bbmotor.jpg",
+        "path": "bbmotor.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 11,
+    "name": "Kaaspakket",
+    "omschrijving": "<p>Aangeboden door Ton en Ilona Teseling</p><p>Een natuurgerijpt kaaspakket met verschillende smaken kaas</p><p>T.w.v. € 50,-</p>",
+    "afbeeldingen": [
+      {
+        "name": "image23.png",
+        "path": "image23.png"
+      }
+    ]
+  },
+  {
+    "nummer": 12,
+    "name": "Snoeien",
+    "omschrijving": "<p>Van heesters, rozen, hagen, jonge bomen, fruitbomen door vakman. </p><p>Eén tuin, maximaal 6 uur. </p><p>(Uiterlijk half april is goede snoeitijd)</p><p>Evert van de Vreede</p>",
+    "afbeeldingen": [
+      {
+        "name": "snoei1.jpg",
+        "path": "snoei1.jpg"
+      },
+      {
+        "name": "snoei2.jpg",
+        "path": "snoei2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 13,
+    "name": "Oppassen",
+    "omschrijving": "<p>Een avond oppassen op uw kinderen, aangeboden door Danielle Dekker  </p><p>(21 jaar)</p>",
+    "afbeeldingen": [
+      {
+        "name": "image27.jpg",
+        "path": "image27.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 14,
+    "name": "Tim Zingt – Kijk & Luisterpakket",
+    "omschrijving": "<p>- DVD/CD Goed Verhaal<br />- DVD/CD Verloren Vaders<br />- CD Zondermeer<br />- Column Boek &#39;Wie ben ik dat ik dit boek mocht schrijven‘</p><p>T.w.v. € 60</p>",
+    "afbeeldingen": [
+      {
+        "name": "tim.jpg",
+        "path": "tim.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 15,
+    "name": "Zeiltocht Veerse Meer",
+    "omschrijving": "<p>Heerlijk op het water met zon en wind in de haren</p><ul><li><p>Zeilmiddag</p></li><li><p>4 personen</p></li><li><p>Aangeboden: Arjan Beekman</p></li><li><p>Bieden vanaf €</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "nogeenboot.jpg",
+        "path": "nogeenboot.jpg"
+      },
+      {
+        "name": "nogeenboot2.jpg",
+        "path": "nogeenboot2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 16,
+    "name": "Gezins-shoot van Anck",
+    "omschrijving": "<p>Aangeboden door: Anck Markwat –fotograaf Geersdijk</p><p>Gezin met kinderen (2-8 personen)</p><p>Bieden vanaf €400</p><p><a href=\"http://www.Anck.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.Anck.nl</u></a></p><p></p>",
+    "afbeeldingen": [
+      {
+        "name": "image45.jpg",
+        "path": "image45.jpg"
+      },
+      {
+        "name": "image44.jpg",
+        "path": "image44.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 17,
+    "name": "Amsterdam privé-appartement",
+    "omschrijving": "<ul><li><p>Max 4 personen</p></li><li><p>Aangeboden door Matty Buijs</p></li><li><p>Incl. eigen parkeerplaats in parkeerkelder</p></li><li><p>Datum in overleg 2-3 nachten</p></li><li><p>Bieden vanaf €500</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "adam1.jpg",
+        "path": "adam1.jpg"
+      },
+      {
+        "name": "adam2.jpg",
+        "path": "adam2.jpg"
+      },
+      {
+        "name": "adam3.jpg",
+        "path": "adam3.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 18,
+    "name": "Vriendenvlucht Midden-Zeeland",
+    "omschrijving": "<p>Piloot Nassim de Jong - Middelburg</p><p>United Indian Mission Aviation</p><p>2 personen</p><p>Rondvlucht boven Zeeland van 1 uur</p><p>Bieden vanaf €250</p>",
+    "afbeeldingen": [
+      {
+        "name": "vliegtuig.jpg",
+        "path": "vliegtuig.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 19,
+    "name": "Bloemstuk",
+    "omschrijving": "<p>Aangeboden door Maja Maljaars</p><p>Datum in overleg</p><p>Bieden vanaf € 35,00</p>",
+    "afbeeldingen": [
+      {
+        "name": "image40.jpg",
+        "path": "image40.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 20,
+    "name": "2 vrijkaartjes",
+    "omschrijving": "<p>Concert Mattijn Buwalda </p><p>Najaar 2023</p><p>Locatie naar keuze </p><p>Bieden vanaf €</p>",
+    "afbeeldingen": [
+      {
+        "name": "martijn1.jpg",
+        "path": "martijn1.jpg"
+      },
+      {
+        "name": "martijn2.jpg",
+        "path": "martijn2.jpg"
+      },
+      {
+        "name": "martijn3.jpg",
+        "path": "martijn3.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 21,
+    "name": "Foto-shoot",
+    "omschrijving": "<ul><li><p>Portret-, familie-shoot, zwart-wit, voor elk moment </p></li><li><p>Bieden vanaf € 100,- </p></li><li><p>Met minimaal 4 foto’s</p></li></ul><p><a href=\"http://www.defotograafonline.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.defotograafonline.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "image49.jpg",
+        "path": "image49.jpg"
+      },
+      {
+        "name": "image47.jpg",
+        "path": "image47.jpg"
+      },
+      {
+        "name": "image48.jpg",
+        "path": "image48.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 22,
+    "name": "Jeanine Nieuwenhuis Dressage",
+    "omschrijving": "<ul><li><p>Rondleiding en demonstratie</p></li><li><p>Aangeboden door Jeanine Nieuwenhuis </p></li><li><p><a href=\"http://www.jeaninenieuwenhuis.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.jeaninenieuwenhuis.nl</u></a></p></li><li><p>Bieden vanaf €15,00 per persoon</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "uma1.jpg",
+        "path": "uma1.jpg"
+      },
+      {
+        "name": "uma2.png",
+        "path": "uma2.png"
+      },
+      {
+        "name": "uma3.jpg",
+        "path": "uma3.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 23,
+    "name": "De Zeeuwse Knoop - Massage",
+    "omschrijving": "<ul><li><p>Aangeboden door Nathalie Marijs – la Grand</p></li><li><p>Hotstone-massage 50 minuten</p></li><li><p>Bieden vanaf € 35</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "knoop1.jpg",
+        "path": "knoop1.jpg"
+      },
+      {
+        "name": "knoop2.jpg",
+        "path": "knoop2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 24,
+    "name": "Foto’s – het helpt je onthouden! ",
+    "omschrijving": "<p>Op een mooie buitenlocatie op een ontspannen en relaxte wijze als gezin op de foto.<br />Niet alleen een blijvende herinnering, ook een gezellig gezinsmoment.</p><ul><li><p>Wat kun je verwachten:</p></li><li><p>Ontspannen foto’s in verschillende opstellingen</p></li><li><p>Minimaal 25 bewerkte foto’s digitaal</p></li><li><p>Fotoshoot ter waarde van €75,-</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "foto1.jpg",
+        "path": "foto1.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 25,
+    "name": "Waterskien",
+    "omschrijving": "<p>Aangeboden door Martin Westerbeke en Daniel Walhout</p><ul><li><p>Rondje op de band</p></li><li><p>Rondje op een tweepersoonsbanaan</p></li><li><p>Alleen skiën</p></li><li><p>Met twee skiën</p></li><li><p>Mono ski</p></li><li><p>Wakeboard, kneeboard</p></li><li><p>Bieden vanaf €20 pp</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "boot1.png",
+        "path": "boot1.png"
+      },
+      {
+        "name": "boot2.png",
+        "path": "boot2.png"
+      }
+    ]
+  },
+  {
+    "nummer": 26,
+    "name": "creatieve stempelworkshop",
+    "omschrijving": "<p><b>Aan de slag met creatieve workshop en maak met professionele stempels en inkt van Perlenfischer je eigen kaarten en cadeaulabels</b></p><ul><li><p>Voor 8 personen (vanaf 14 jaar)</p></li><li><p>Aangeboden door Margreeth van den Bergh</p></li><li><p>Datum in overleg</p></li><li><p>Locatie op Walcheren</p></li><li><p>Bieden als groep of per persoon</p></li></ul>",
+    "afbeeldingen": [
+      {
+        "name": "image68.png",
+        "path": "image68.png"
+      }
+    ]
+  },
+  {
+    "nummer": 27,
+    "name": "Zelf stempels maken ",
+    "omschrijving": "<p>Maak zelf je eigen herbruikbare stempels. </p><p>Creatieve workshop </p><p>Voor 6 personen</p><p>Aangeboden door Danieck Bosschaart </p><p>Groep of inschrijving</p><p>Bieden vanaf € 15,00 per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image58.jpg",
+        "path": "image58.jpg"
+      },
+      {
+        "name": "image57.jpg",
+        "path": "image57.jpg"
+      },
+      {
+        "name": "image59.jpg",
+        "path": "image59.jpg"
+      },
+      {
+        "name": "image60.jpg",
+        "path": "image60.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 28,
+    "name": "Kwaliteits-tuingereedschap.nl",
+    "omschrijving": "<p><b>Aangeboden door Wim Maljaars</b></p><p>Zeeuwse aardappelriek gesmeed volgens het model van onze opa Pieter Maljaars(1907)</p><p>Bieden vanaf: € 85,-</p><p><a href=\"http://www.kwaliteits-tuingereedschap.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.kwaliteits-tuingereedschap.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "image61.jpg",
+        "path": "image61.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 29,
+    "name": "Citroen DS 23",
+    "omschrijving": "<p>Zin in een leuke autorit of heb je een auto nodig voor een speciale gelegenheid boek dan de volledig gerestaureerde DS 23 met chauffeur;</p><p>Voor een dag;</p><p> Aangeboden door:</p><p><a href=\"http://www.idee-andre-ds.com\" custom=\"[object Object]\" linktype=\"url\"><u>www.idee-andre-ds.com</u></a></p><p>Bieden vanaf: €250,00</p>",
+    "afbeeldingen": [
+      {
+        "name": "image64.jpg",
+        "path": "image64.jpg"
+      },
+      {
+        "name": "image62.jpg",
+        "path": "image62.jpg"
+      },
+      {
+        "name": "image63.jpg",
+        "path": "image63.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 30,
+    "name": "Workshop Handletteren",
+    "omschrijving": "<p>Creatief vormgeven van mooie letters, cijfers en woorden</p><p>Voor  6 personen</p><p>Aangeboden door Danieck Bosschaart<br />Bieden vanaf € 15 per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image66.jpg",
+        "path": "image66.jpg"
+      },
+      {
+        "name": "image67.jpg",
+        "path": "image67.jpg"
+      },
+      {
+        "name": "image60.jpg",
+        "path": "image60.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 31,
+    "name": "Workshop Grillworst maken",
+    "omschrijving": "<p>Maak 2 grillworsten van ca. 400 gram.</p><p>Ca. 3 uur werk (vlees snijden, malen, mengen, worst vullen, garen in heet water, kruiden en afbakken.</p><p>Aangeboden door Cor Jacobse</p><p>Bieden vanaf €15,- per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image69.jpg",
+        "path": "image69.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 32,
+    "name": "Diner voor 6 personen",
+    "omschrijving": "<p>Een heerlijk diner aangeboden door Joke en Jan Kaljouw  </p><p>U kunt bieden voor 6 personen</p><p>Bieden van € 35 per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image70.jpg",
+        "path": "image70.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 33,
+    "name": "Workshop bierbrouwen",
+    "omschrijving": "<p>In ca. 6 uur brouwen en na drie weken ca. 4 uur bottelen van je favoriete biertje; IPA, blond of triple. </p><p>Incl. ingrediënten. </p><p>Zelf lege flessen meenemen</p><p>In totaal 24 flesjes </p><p>Groepsgrootte 4-6 personen</p><p>Aangeboden door Cor Jacobse</p><p>Bieden vanaf € 35,- per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image71.jpg",
+        "path": "image71.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 34,
+    "name": "Birthday cake",
+    "omschrijving": "<p>Taart voor 10 personen</p><p>Afgesmeerd met botercrème, kleur en thema naar keuze</p><p>Bieden vanaf €40,00</p><p>Aangeboden door Marian Maljaars</p><p>Datum in overleg</p><p><a href=\"http://www.maatjeskitchen.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.maatjeskitchen.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "image82.jpg",
+        "path": "image82.jpg"
+      },
+      {
+        "name": "image77.jpg",
+        "path": "image77.jpg"
+      },
+      {
+        "name": "image78.jpg",
+        "path": "image78.jpg"
+      },
+      {
+        "name": "image79.jpg",
+        "path": "image79.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 35,
+    "name": "Zeeuwse knop sieraad",
+    "omschrijving": "<p><a href=\"https://sieradenvanjetje.nl/producten\" custom=\"[object Object]\" linktype=\"url\"><u>https://sieradenvanjetje.nl/producten</u></a></p><p>Een setje Zeeuwse knop sieraden</p><p>Aangeboden door Mariette van den Berge</p><p>Oorbellen zijn voorbeeld</p>",
+    "afbeeldingen": [
+      {
+        "name": "image72.png",
+        "path": "image72.png"
+      }
+    ]
+  },
+  {
+    "nummer": 36,
+    "name": "Replica Jan Asselijn",
+    "omschrijving": "<p>De bedreigde zwaan op canvas van 120 x 160 cm. </p><p>Aangeboden door Rinus en Nelleke Kodde</p><p>Nieuwprijs €200</p><p>Zit nog in verpakking</p><p>Bieden vanaf €75</p>",
+    "afbeeldingen": [
+      {
+        "name": "image73.png",
+        "path": "image73.png"
+      }
+    ]
+  },
+  {
+    "nummer": 37,
+    "name": "Een METER WIJN",
+    "omschrijving": "<p>Aangeboden door Ton en Ilona Teseling </p><p>Een wijnpakket met drie heerlijke wijnen</p><p>Bieden vanaf € 50</p>",
+    "afbeeldingen": [
+      {
+        "name": "image74.png",
+        "path": "image74.png"
+      }
+    ]
+  },
+  {
+    "nummer": 38,
+    "name": "Diner voor 4-6 personen",
+    "omschrijving": "<p>Een heerlijk diner aangeboden door Annemieke en Ruud </p><p>U kunt bieden voor 6 personen, maar ook meerdere koppels van 2 of 4 + 2 personen zijn welkom</p><p>Een leuke manier om nieuwe mensen te leren kennen</p><p>Bieden van € 35 per persoon</p>",
+    "afbeeldingen": [
+      {
+        "name": "image75.png",
+        "path": "image75.png"
+      }
+    ]
+  },
+  {
+    "nummer": 39,
+    "name": "Zeeuwse mosselen",
+    "omschrijving": "<p>Aangeboden door Jan en Mentine Schot </p><p>4 kilogram jumbo-mosselen (tegoedbon)</p><p>Bieden vanaf € 40</p><p>Neeltje Jans beschikt over de echte Zeker Zeeuws, MSC en Bio gecertificeerde Zeeuwse Mosselen</p><p><a href=\"http://www.neeltjejansmosselen.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.neeltjejansmosselen.nl</u></a></p><p><a href=\"http://www.proefzeeland.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.proefzeeland.nl</u></a></p>",
+    "afbeeldingen": [
+      {
+        "name": "image76.png",
+        "path": "image76.png"
+      }
+    ]
+  },
+  {
+    "nummer": 40,
+    "name": "Zeeuws knopsieraad",
+    "omschrijving": "<p>Betreft. Oorbellen, armband en ketting</p><p>twv €55</p><p>Handgemaakte sieraden van Jetje</p>",
+    "afbeeldingen": [
+      {
+        "name": "9c74adec938acd08df8cc328d3e47f730742423e9bc8dcfbacbe4c9bb490d95b.jpg",
+        "path": "9c74adec938acd08df8cc328d3e47f730742423e9bc8dcfbacbe4c9bb490d95b.jpg"
+      }
+    ]
+  }
 ]
