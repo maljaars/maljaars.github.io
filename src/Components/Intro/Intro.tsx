@@ -10,6 +10,7 @@ export const Intro = () => {
         <p>Samen met Compassion bezoeken we twee dorpen in Ghana o.a. Kintampo. Hier zullen we onze sponsorkinderen Christabel (2 jaar) en Fantinvel (4 jaar) ontmoeten. </p>
         <p>Wil jij ook een kindje sponsoren? Dat kan voor €33,- per maand. We helpen je graag verder!</p>
         <p>De veiling vind plaats op 11 maart 2023 vanaf half 15.30 in het oude CSW gebouw aan de Sir Winston Churchilllaan 8.</p>
+        <p>Naast deze veilingstukken is ook voor een kraam met wat stukken, die mensen gewoon kunnen kopen.</p>
       </div>
       <div className='intro__graphic'>
         <img className='intro__graphic--image' src="/images/intro.jpg" alt="Foto van de lopers" />
