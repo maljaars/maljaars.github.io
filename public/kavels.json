@@ -503,17 +503,6 @@
   },
   {
     "nummer": 35,
-    "name": "Zeeuwse knop sieraad",
-    "omschrijving": "<p><a href=\"https://sieradenvanjetje.nl/producten\" custom=\"[object Object]\" linktype=\"url\"><u>https://sieradenvanjetje.nl/producten</u></a></p><p>Een setje Zeeuwse knop sieraden</p><p>Aangeboden door Mariette van den Berge</p><p>Oorbellen zijn voorbeeld</p>",
-    "afbeeldingen": [
-      {
-        "name": "image72.png",
-        "path": "image72.png"
-      }
-    ]
-  },
-  {
-    "nummer": 36,
     "name": "Replica Jan Asselijn",
     "omschrijving": "<p>De bedreigde zwaan op canvas van 120 x 160 cm. </p><p>Aangeboden door Rinus en Nelleke Kodde</p><p>Nieuwprijs €200</p><p>Zit nog in verpakking</p><p>Bieden vanaf €75</p>",
     "afbeeldingen": [
@@ -524,7 +513,7 @@
     ]
   },
   {
-    "nummer": 37,
+    "nummer": 36,
     "name": "Een METER WIJN",
     "omschrijving": "<p>Aangeboden door Ton en Ilona Teseling </p><p>Een wijnpakket met drie heerlijke wijnen</p><p>Bieden vanaf € 50</p>",
     "afbeeldingen": [
@@ -535,7 +524,7 @@
     ]
   },
   {
-    "nummer": 38,
+    "nummer": 37,
     "name": "Diner voor 4-6 personen",
     "omschrijving": "<p>Een heerlijk diner aangeboden door Annemieke en Ruud </p><p>U kunt bieden voor 6 personen, maar ook meerdere koppels van 2 of 4 + 2 personen zijn welkom</p><p>Een leuke manier om nieuwe mensen te leren kennen</p><p>Bieden van € 35 per persoon</p>",
     "afbeeldingen": [
@@ -546,7 +535,7 @@
     ]
   },
   {
-    "nummer": 39,
+    "nummer": 38,
     "name": "Zeeuwse mosselen",
     "omschrijving": "<p>Aangeboden door Jan en Mentine Schot </p><p>4 kilogram jumbo-mosselen (tegoedbon)</p><p>Bieden vanaf € 40</p><p>Neeltje Jans beschikt over de echte Zeker Zeeuws, MSC en Bio gecertificeerde Zeeuwse Mosselen</p><p><a href=\"http://www.neeltjejansmosselen.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.neeltjejansmosselen.nl</u></a></p><p><a href=\"http://www.proefzeeland.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.proefzeeland.nl</u></a></p>",
     "afbeeldingen": [
@@ -557,7 +546,7 @@
     ]
   },
   {
-    "nummer": 40,
+    "nummer": 39,
     "name": "Zeeuws knopsieraad",
     "omschrijving": "<p>Betreft. Oorbellen, armband en ketting</p><p>twv €55</p><p>Handgemaakte sieraden van Jetje</p>",
     "afbeeldingen": [
