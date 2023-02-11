@@ -196,7 +196,7 @@
   {
     "nummer": 15,
     "name": "Zeiltocht Veerse Meer",
-    "omschrijving": "<p>Heerlijk op het water met zon en wind in de haren</p><ul><li><p>Zeilmiddag</p></li><li><p>4 personen</p></li><li><p>Aangeboden: Arjan Beekman</p></li><li><p>Bieden vanaf €</p></li></ul>",
+    "omschrijving": "<p>Heerlijk op het water met zon en wind in de haren</p><ul><li><p>Zeilmiddag</p></li><li><p>4 personen</p></li><li><p>Aangeboden: Arjan Beekman</p></li><li><p>Bieden vanaf € 150</p></li></ul>",
     "afbeeldingen": [
       {
         "name": "nogeenboot.jpg",
@@ -220,6 +220,10 @@
       {
         "name": "image44.jpg",
         "path": "image44.jpg"
+      },
+      {
+        "name": "anck-3-nieuw.jpeg",
+        "path": "anck-3-nieuw.jpeg"
       }
     ]
   },
@@ -548,11 +552,26 @@
   {
     "nummer": 39,
     "name": "Zeeuws knopsieraad",
-    "omschrijving": "<p>Betreft. Oorbellen, armband en ketting</p><p>twv €55</p><p>Handgemaakte sieraden van Jetje</p>",
+    "omschrijving": "<p>Betreft. Oorbellen, armband en ketting</p><p>twv €55</p><p>Handgemaakte sieraden van Jetje</p><p>https://sieradenvanjetje.nl;</p>",
     "afbeeldingen": [
       {
         "name": "9c74adec938acd08df8cc328d3e47f730742423e9bc8dcfbacbe4c9bb490d95b.jpg",
         "path": "9c74adec938acd08df8cc328d3e47f730742423e9bc8dcfbacbe4c9bb490d95b.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 40,
+    "name": "Weekend Voorthuizen ",
+    "omschrijving": "<p>Betreft. Lang weekend heerlijk kamperen voor 2 personen op de boerderijcamping in Voorthuizen.  </p><p>Neem je eigen fietsen mee;  </p><p>Aangeboden door John en Ina Maas </p><p>Vrije weekenden zijn op 2-4 juni of 9-11 juni 2023</p><p><a href=\"http://www.dekleinestroet.nl\" custom=\"[object Object]\" linktype=\"url\">www.dekleinestroet.nl</a>;</p><p></p>",
+    "afbeeldingen": [
+      {
+        "name": "voorthuizen-1.jpg",
+        "path": "voorthuizen-1.jpg"
+      },
+      {
+        "name": "voorthuizen-2.jpg",
+        "path": "voorthuizen-2.jpg"
       }
     ]
   }
