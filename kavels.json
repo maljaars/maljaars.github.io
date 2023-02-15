@@ -80,7 +80,7 @@
   {
     "nummer": 7,
     "name": "Heerlijke vakantiewoning  ",
-    "omschrijving": "<p>Boerderij Het Driespan Middelburg</p><p>2 nachten incl. ontbijt</p><p>Max. 2 personen</p><p>Aangeboden door Mary en Jan Vader</p><p>Bieden vanaf €220</p>",
+    "omschrijving": "<p>Boerderij Het Driespan Middelburg</p><p>2 nachten incl. ontbijt voor max. 2 personen</p><p>Aangeboden door Mary en Jan Vader</p><p>Bieden vanaf €220</p>",
     "afbeeldingen": [
       {
         "name": "image31.png",
@@ -103,7 +103,7 @@
   {
     "nummer": 8,
     "name": "Weekend in sfeervol vrijstaand vakantiehuis Veere",
-    "omschrijving": "<ul><li><p><b>4 tot 6 personen</b></p></li><li><p>Familie Rianne en Erwin van Oosten</p></li><li><p>Veerseweg </p></li><li><p>Bieden vanaf €300</p></li></ul><p><a href=\"https://www.vakantiehuisveere.nl\" custom=\"[object Object]\" linktype=\"url\"><u>https://www.vakantiehuisveere.nl</u></a></p>",
+    "omschrijving": "<ul><li><p><b>4 personen</b></p></li><li><p>Aangeboden door Familie Rianne en Erwin van Oosten</p></li><li><p>3 nachten in laagseizoen (data in overleg).</p></li><li><p>Bieden vanaf €360 (waarde €425) </p></li></ul><p><a href=\"https://www.vakantiehuisveere.nl\" custom=\"[object Object]\" linktype=\"url\"><u>https://www.vakantiehuisveere.nl</u></a></p>",
     "afbeeldingen": [
       {
         "name": "veere1.png",
@@ -572,6 +572,21 @@
       {
         "name": "voorthuizen-2.jpg",
         "path": "voorthuizen-2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 41,
+    "name": "Camper weekend",
+    "omschrijving": "<p>Pak nu je kans; Op stap met een heuse camper.  </p><p>Aangeboden door Cornelis en Lydia de Wolf</p><p>Voor maximaal 4 personen. B-rijbewijs is voldoende. </p><p>Te boeken in overleg.</p><p>Een heel weekend of een midweek. </p><p>Bieden vanaf € 180 </p><p>Brandstof voor eigen rekening. </p>",
+    "afbeeldingen": [
+      {
+        "name": "camper-1.jpg",
+        "path": "camper-1.jpg"
+      },
+      {
+        "name": "camper-2.jpg",
+        "path": "camper-2.jpg"
       }
     ]
   }
