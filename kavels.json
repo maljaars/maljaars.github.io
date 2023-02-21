@@ -589,5 +589,31 @@
         "path": "camper-2.jpg"
       }
     ]
+  },
+  {
+    "nummer": 42,
+    "name": "Combi-massage ",
+    "omschrijving": "<p>Combi-massage aangeboden door Celine Walhout</p><p>Uit de drukte stappen en stil staan bij het werk van Compassion? </p><p>Gun jezelf een moment van rust én steun tegelijk Compassion. Bij deze volledige lichaamsmassage staan ontspanning en warmte centraal. Met warme olie worden de spieren los gemaakt in afwisseling met warme stenen die de spieren direct laten ontspannen. </p><p>60 minuten genieten van ontspanningsmassage ter waarde van €65 </p><p>Afspraak in overleg. </p><p><a href=\"http://www.celine-cosmetics.com\" custom=\"[object Object]\" linktype=\"url\">www.celine-cosmetics.com</a>;</p>",
+    "afbeeldingen": [
+      {
+        "name": "celine-2.jpg",
+        "path": "celine-2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 43,
+    "name": "Schilderij ",
+    "omschrijving": "<p>Het schilderij is geschilderd op linnendoek van 90 bij 120 en 4 cm dik.</p><p>Het geheel zit in aluminium frame zodat het werk altijd perfect zijn vorm behoudt. </p><p>De waarde is €100 (aan materiaalkosten)</p><p>Naam schilder is bekend bij ons. </p><p>De oorbellen en ketting zijn subtiel voorzien van bladgoud (zie de extra foto) </p>",
+    "afbeeldingen": [
+      {
+        "name": "schilderij-nn1.PNG",
+        "path": "schilderij-nn1.PNG"
+      },
+      {
+        "name": "schilderij-nn.JPG",
+        "path": "schilderij-nn.JPG"
+      }
+    ]
   }
 ]
