@@ -577,21 +577,6 @@
   },
   {
     "nummer": 41,
-    "name": "Camper weekend",
-    "omschrijving": "<p>Pak nu je kans; Op stap met een heuse camper.  </p><p>Aangeboden door Cornelis en Lydia de Wolf</p><p>Voor maximaal 4 personen. B-rijbewijs is voldoende. </p><p>Te boeken in overleg.</p><p>Een heel weekend of een midweek. </p><p>Ter waarde van € 180 </p><p>Brandstof voor eigen rekening. </p>",
-    "afbeeldingen": [
-      {
-        "name": "camper-1.jpg",
-        "path": "camper-1.jpg"
-      },
-      {
-        "name": "camper-2.jpg",
-        "path": "camper-2.jpg"
-      }
-    ]
-  },
-  {
-    "nummer": 42,
     "name": "Combi-massage ",
     "omschrijving": "<p>Combi-massage aangeboden door Celine Walhout</p><p>Uit de drukte stappen en stil staan bij het werk van Compassion? </p><p>Gun jezelf een moment van rust én steun tegelijk Compassion. Bij deze volledige lichaamsmassage staan ontspanning en warmte centraal. Met warme olie worden de spieren los gemaakt in afwisseling met warme stenen die de spieren direct laten ontspannen. </p><p>60 minuten genieten van ontspanningsmassage ter waarde van €65 </p><p>Afspraak in overleg. </p><p><a href=\"http://www.celine-cosmetics.com\" custom=\"[object Object]\" linktype=\"url\">www.celine-cosmetics.com</a>;</p>",
     "afbeeldingen": [
@@ -602,7 +587,7 @@
     ]
   },
   {
-    "nummer": 43,
+    "nummer": 42,
     "name": "Schilderij ",
     "omschrijving": "<p>Het schilderij is geschilderd op linnendoek van 90 bij 120 en 4 cm dik.</p><p>Het geheel zit in aluminium frame zodat het werk altijd perfect zijn vorm behoudt. </p><p>De waarde is €100 (aan materiaalkosten)</p><p>Naam schilder is bekend bij ons. </p><p>De oorbellen en ketting zijn subtiel voorzien van bladgoud (zie de extra foto) </p>",
     "afbeeldingen": [
@@ -613,6 +598,21 @@
       {
         "name": "schilderij-nn.jpg",
         "path": "schilderij-nn.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 43,
+    "name": "Camper weekend",
+    "omschrijving": "<p>Pak nu je kans; Op stap met een heuse camper.  </p><p>Aangeboden door Cornelis en Lydia de Wolf</p><p>Voor maximaal 4 personen. B-rijbewijs is voldoende. </p><p>Te boeken in overleg.</p><p>Een heel weekend of een midweek. </p><p>Ter waarde van € 180 </p><p>Brandstof voor eigen rekening. </p>",
+    "afbeeldingen": [
+      {
+        "name": "camper-1.jpg",
+        "path": "camper-1.jpg"
+      },
+      {
+        "name": "camper-2.jpg",
+        "path": "camper-2.jpg"
       }
     ]
   }
