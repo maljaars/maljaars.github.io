@@ -1,20 +1,45 @@
 @import '../../Variables.scss';
 
+@media print {
+  body {
+    background-color: white;
+  }
+
+  .present-container {
+    .background {
+      display: none;
+    }
+
+    .nav__prev,
+    .nav__next {
+      display: none;
+    }
+
+    .thumbs {
+      display: none !important;
+    }
+
+    .kavel__poster {
+      flex: 0 0 40% !important;
+    }
+  }
+}
+
 
 .present-container {
 
-  .nav{
+  .nav {
     position: absolute;
     width: 6rem;
     height: 100%;
     top: 0;
     z-index: 999;
 
-    &__next{
+    &__next {
       right: 0;
     }
 
-    &__prev{
+    &__prev {
       left: 0;
     }
 
@@ -58,12 +83,13 @@
       font-size: 2.5rem;
     }
 
-    p,li {
+    p,
+    li {
       font-size: 1.5rem;
       line-height: 2.5rem;
     }
 
-    
+
 
     .kavel {
       /* hacker de hack hack. Als dit problemen geeft terugdraaien... */
@@ -120,15 +146,15 @@
     }
 
 
-  .thumbs {
-    display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    .thumbs {
+      display: grid;
+      grid-gap: 10px;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 
-    .img{
-      width: 100%;
+      .img {
+        width: 100%;
+      }
     }
-  }
   }
 
   .present-image {
