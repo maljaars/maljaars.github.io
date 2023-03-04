@@ -496,17 +496,6 @@
   },
   {
     "nummer": 34,
-    "name": "Workshop Grillworst maken",
-    "omschrijving": "<p>Maak 2 grillworsten van ca. 400 gram.</p><p>Ca. 3 uur werk (vlees snijden, malen, mengen, worst vullen, garen in heet water, kruiden en afbakken.</p><p>Aangeboden door Cor Jacobse</p><p>Ter waarde van €25 </p>",
-    "afbeeldingen": [
-      {
-        "name": "image69.jpg",
-        "path": "image69.jpg"
-      }
-    ]
-  },
-  {
-    "nummer": 35,
     "name": "Diner voor 6 personen",
     "omschrijving": "<p>Een heerlijk diner aangeboden door Joke en Jan Kaljouw  </p><p>U kunt bieden voor 6 personen</p><p>Ter waarde van € 35 per persoon</p>",
     "afbeeldingen": [
@@ -517,7 +506,7 @@
     ]
   },
   {
-    "nummer": 36,
+    "nummer": 35,
     "name": "Workshop bierbrouwen",
     "omschrijving": "<p>In ca. 6 uur brouwen en na drie weken ca. 4 uur bottelen van je favoriete biertje; IPA, blond of triple. </p><p>Incl. ingrediënten. </p><p>In totaal 24 flesjes. Neem zelf je lege flesjes mee.  </p><p>Groepsgrootte 4  personen</p><p>Aangeboden door Cor Jacobse</p><p></p>",
     "afbeeldingen": [
@@ -528,7 +517,7 @@
     ]
   },
   {
-    "nummer": 37,
+    "nummer": 36,
     "name": "Birthday cake",
     "omschrijving": "<p>Taart voor 10 personen</p><p>Afgesmeerd met botercrème, kleur en thema naar keuze</p><p>Ter waarde van €40,00</p><p>Aangeboden door Marian Maljaars</p><p>Datum in overleg</p><p><a href=\"http://www.maatjeskitchen.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.maatjeskitchen.nl</u></a></p>",
     "afbeeldingen": [
@@ -551,7 +540,7 @@
     ]
   },
   {
-    "nummer": 38,
+    "nummer": 37,
     "name": "Replica Jan Asselijn",
     "omschrijving": "<p>De bedreigde zwaan op canvas van 120 x 160 cm. </p><p>Aangeboden door Rinus en Nelleke Kodde</p><p>Nieuwprijs €200</p><p>Zit nog in verpakking</p><p>Bieden vanaf €75</p>",
     "afbeeldingen": [
@@ -562,7 +551,7 @@
     ]
   },
   {
-    "nummer": 39,
+    "nummer": 38,
     "name": "Een METER WIJN",
     "omschrijving": "<p>Aangeboden door Ton en Ilona Teseling </p><p>Een wijnpakket met drie heerlijke wijnen</p><p>Ter waarde van € 50</p>",
     "afbeeldingen": [
@@ -573,7 +562,7 @@
     ]
   },
   {
-    "nummer": 40,
+    "nummer": 39,
     "name": "Diner voor 4-6 personen",
     "omschrijving": "<p>Een heerlijk diner aangeboden door Annemieke en Ruud </p><p>U kunt bieden voor 6 personen, maar ook meerdere koppels van 2 of 4 + 2 personen zijn welkom</p><p>Een leuke manier om nieuwe mensen te leren kennen</p><p>Ter waarde van €35-40 per persoon.</p><p>Bieden als groep of per persoon. </p>",
     "afbeeldingen": [
@@ -584,7 +573,7 @@
     ]
   },
   {
-    "nummer": 41,
+    "nummer": 40,
     "name": "Zeeuwse mosselen",
     "omschrijving": "<p>Aangeboden door Jan en Mentine Schot </p><p>4 kilogram jumbo-mosselen (tegoedbon)</p><p>Ter waarde van €36</p><p>Neeltje Jans beschikt over de echte Zeker Zeeuws, MSC en Bio gecertificeerde Zeeuwse Mosselen</p><p><a href=\"http://www.neeltjejansmosselen.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.neeltjejansmosselen.nl</u></a></p><p><a href=\"http://www.proefzeeland.nl\" custom=\"[object Object]\" linktype=\"url\"><u>www.proefzeeland.nl</u></a></p>",
     "afbeeldingen": [
@@ -595,7 +584,7 @@
     ]
   },
   {
-    "nummer": 42,
+    "nummer": 41,
     "name": "Zeeuws knopsieraad",
     "omschrijving": "<p>Betreft. Oorbellen, armband en ketting</p><p>Ter waarde van €55</p><p>Handgemaakte sieraden van Jetje</p><p>https://sieradenvanjetje.nl;</p>",
     "afbeeldingen": [
@@ -606,7 +595,7 @@
     ]
   },
   {
-    "nummer": 43,
+    "nummer": 42,
     "name": "Weekend Voorthuizen ",
     "omschrijving": "<p>Lang weekend heerlijk kamperen voor 2 personen op de boerderijcamping in Voorthuizen.  </p><p>Neem je eigen fietsen mee;  </p><p>Aangeboden door John en Ina Maas </p><p>Vrije weekenden zijn op 2-4 juni of 9-11 juni 2023</p><p><a href=\"http://www.dekleinestroet.nl\" custom=\"[object Object]\" linktype=\"url\">www.dekleinestroet.nl</a>;</p><p></p>",
     "afbeeldingen": [
@@ -621,13 +610,24 @@
     ]
   },
   {
-    "nummer": 44,
+    "nummer": 43,
     "name": "Combi-massage ",
     "omschrijving": "<p>Combi-massage aangeboden door Celine Walhout</p><p>Uit de drukte stappen en stil staan bij het werk van Compassion? </p><p>Gun jezelf een moment van rust én steun tegelijk Compassion. Bij deze volledige lichaamsmassage staan ontspanning en warmte centraal. Met warme olie worden de spieren los gemaakt in afwisseling met warme stenen die de spieren direct laten ontspannen. </p><p>60 minuten genieten van ontspanningsmassage ter waarde van €65 </p><p>Afspraak in overleg. </p><p><a href=\"http://www.celine-cosmetics.com\" custom=\"[object Object]\" linktype=\"url\">www.celine-cosmetics.com</a>;</p>",
     "afbeeldingen": [
       {
         "name": "celine-2.jpg",
         "path": "celine-2.jpg"
+      }
+    ]
+  },
+  {
+    "nummer": 44,
+    "name": "Workshop Grillworst maken",
+    "omschrijving": "<p>Maak 2 grillworsten van ca. 400 gram.</p><p>Ca. 3 uur werk (vlees snijden, malen, mengen, worst vullen, garen in heet water, kruiden en afbakken.</p><p>Aangeboden door Cor Jacobse</p><p>Ter waarde van €25 </p>",
+    "afbeeldingen": [
+      {
+        "name": "image69.jpg",
+        "path": "image69.jpg"
       }
     ]
   },
