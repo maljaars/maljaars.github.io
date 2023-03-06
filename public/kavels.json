@@ -637,12 +637,38 @@
     "omschrijving": "<p>Het schilderij is geschilderd op linnendoek van 90 bij 120 en 4 cm dik.</p><p>Het geheel zit in aluminium frame zodat het werk altijd perfect zijn vorm behoudt. </p><p>De waarde is €100 (aan materiaalkosten)</p><p>Naam schilder is bekend bij ons. </p><p>De oorbellen en ketting zijn subtiel voorzien van bladgoud (zie de extra foto) </p>",
     "afbeeldingen": [
       {
-        "name": "schilderij-nn1.png",
-        "path": "schilderij-nn1.png"
+        "name": "schilderij-nn1.PNG",
+        "path": "schilderij-nn1.PNG"
       },
       {
-        "name": "schilderij-nn.jpg",
-        "path": "schilderij-nn.jpg"
+        "name": "schilderij-nn.JPG",
+        "path": "schilderij-nn.JPG"
+      }
+    ]
+  },
+  {
+    "nummer": 46,
+    "name": "Renovlies behang met kleur",
+    "omschrijving": "<p>Uw kamer behangen met reno-vliesbehang. Ziet u dat zelf niet zitten? </p><p>Jan de Visser komt graag deze klus bij u uitvoeren. </p><p>Je kunt zelf de kleur bepalen, dan wordt er gesausd opgeleverd. </p><p>Kosten zijn € 15,- per m2 (excl. behang en muursaus).</p>",
+    "afbeeldingen": [
+      {
+        "name": "renovlies-jan-de-visser.png",
+        "path": "renovlies-jan-de-visser.png"
+      }
+    ]
+  },
+  {
+    "nummer": 47,
+    "name": "Catamaran Oosterschelde ",
+    "omschrijving": "<p>Zeehondjes of bruinvissen spotten op de Oosterschelde (NIEUW NIEUW)</p><p>Aangeboden door Jan Jacobse. </p><p>Een dag meevaren op een 12,5 meter lange catamaran. Er is ruimte voor 4 personen. Start bij Roompot Marina (Noord-Beveland). </p><p>Ter waarde van € 150-200 </p>",
+    "afbeeldingen": [
+      {
+        "name": "jan-jacobse-oosterschelde-catamaran.jpg",
+        "path": "jan-jacobse-oosterschelde-catamaran.jpg"
+      },
+      {
+        "name": "jan-jacobse-rondje-oosterschelde.jpg",
+        "path": "jan-jacobse-rondje-oosterschelde.jpg"
       }
     ]
   }
