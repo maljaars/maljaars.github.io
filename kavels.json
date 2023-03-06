@@ -645,5 +645,31 @@
         "path": "schilderij-nn.jpg"
       }
     ]
+  },
+  {
+    "nummer": 46,
+    "name": "Renovlies behang met kleur",
+    "omschrijving": "<p>Uw kamer behangen met reno-vliesbehang. Ziet u dat zelf niet zitten? </p><p>Jan de Visser komt graag deze klus bij u uitvoeren. </p><p>Je kunt zelf de kleur bepalen, dan wordt er gesausd opgeleverd. </p><p>Kosten zijn € 15,- per m2 (excl. behang en muursaus).</p>",
+    "afbeeldingen": [
+      {
+        "name": "renovlies-jan-de-visser.png",
+        "path": "renovlies-jan-de-visser.png"
+      }
+    ]
+  },
+  {
+    "nummer": 47,
+    "name": "Catamaran Oosterschelde ",
+    "omschrijving": "<p>Zeehondjes of bruinvissen spotten op de Oosterschelde (NIEUW NIEUW)</p><p>Aangeboden door Jan Jacobse. </p><p>Een dag meevaren op een 12,5 meter lange catamaran. Er is ruimte voor 4 personen. Start bij Roompot Marina (Noord-Beveland). </p><p>Ter waarde van € 150-200 </p>",
+    "afbeeldingen": [
+      {
+        "name": "jan-jacobse-oosterschelde-catamaran.jpg",
+        "path": "jan-jacobse-oosterschelde-catamaran.jpg"
+      },
+      {
+        "name": "jan-jacobse-rondje-oosterschelde.jpg",
+        "path": "jan-jacobse-rondje-oosterschelde.jpg"
+      }
+    ]
   }
 ]
